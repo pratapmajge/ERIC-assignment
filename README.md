@@ -1,5 +1,11 @@
 # ERIC Robotics Insight.IO Dashboard
 
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/ac4c5804-a0db-4da8-b6fc-32932c05b54c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2980f6b-5427-4fa9-aa3f-d88d5bfb68b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b2a4725-c756-4f3f-b837-b6b46ee9ceb6" />
+
+
+
 A modern, responsive robotics dashboard built with React + Vite for visualizing camera feeds, 3D point clouds, and real-time telemetry data.
 
 ## 🚀 Features
